@@ -24,8 +24,11 @@ python sentimental_analysis_textblob.py
 Execution time: ~170sec
 
 5. To run LSTM
+
 A. The code first trains the network internally and then uses its weights and biasis to analyze the statement
+
 B. The network is trained on Tweets.csv(Airline review data)
+
 Execution time: ~320sec (Training + Prediciton)
 
 python sentimental_analysis_LSTM.py
