@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 Notes
 
-1.Analysis of both the methods are presented individually in Summary_sentimental.pdf
+1. Analysis of both the methods are presented individually in Summary_sentimental.pdf
 
 
 2. The scrapped data is present in data.json and its respective code is in sentimental_analysis_textblob.py/ipynb
