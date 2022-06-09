@@ -1,5 +1,7 @@
 Sentimental Analysis is carried out in two methods. 
+
 Method 1: textblob module (ML)
+
 Method 2: LSTM (DL)
 
 To install dependencies
